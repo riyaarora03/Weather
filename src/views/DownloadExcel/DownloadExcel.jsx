@@ -5,6 +5,7 @@ import { saveAs } from 'file-saver';
 import './DownloadExcel.css';
 import downloadButtonImage from './download-btn.png';
 
+
 const DownloadExcel = () => {
   const [startDate, setStartDate] = useState('');
   const [endDate, setEndDate] = useState('');
@@ -49,10 +50,10 @@ const DownloadExcel = () => {
       {showDropdown && (
         <div id="download-dropdown">
           <label htmlFor="start-date">Start Date:</label>
-          <input type="date" id="start-date" value={startDate} onChange={e => setStartDate(e.target.value)} />
+          <input className="change" type="date" id="start-date" value={startDate} onChange={e => setStartDate(e.target.value)} />
 
           <label htmlFor="end-date" style={{ display: 'block' }}>End Date:</label>
-          <input type="date" id="end-date" value={endDate} onChange={e => setEndDate(e.target.value)}  />
+          <input  className="change" type="date" id="end-date" value={endDate} onChange={e => setEndDate(e.target.value)}  />
 
           <button onClick={handleDownloadClick}>Download</button>
         </div>
