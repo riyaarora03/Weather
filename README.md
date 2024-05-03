@@ -68,10 +68,6 @@ Run the application on your localhost
 ```
 
 
-###
-
-#### Note : This README is subject to updates as the project progresses.
-
 
 ## PREVIEW
 <img width="1438" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/5bcd3932-9aa2-4d09-82d2-ba78c20ca282">
@@ -87,7 +83,9 @@ Run the application on your localhost
 
 
 
+###
 
+#### Note : This README is subject to updates as the project progresses.
 
 
 
