@@ -38,6 +38,38 @@ ESP8266, often integrated into development boards like NodeMCU, is a ver- satile
 BMP180 is a high-precision digital pressure sensor commonly used in IoT applications to measure atmospheric pressure and temperature. Its small size, low power consumption, and accuracy make it ideal for weather monitoring, altitude tracking, and indoor climate control systems. BMP180 provides real-time data on barometric pressure and temperature, enabling IoT devices to make informed decisions and adapt to changing environmental conditions.   
 <img width="474" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/4cfb1cf8-f732-4023-bf9a-5fa19ad04fba">
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/riyaarora03/Weather-Monitoring-System.git
+```
+
+Go to the project directory
+
+```bash
+  cd Weather-Monitoring-System
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+You will have to setup your firebase account and make a config.js file in the firebase folder. This will contain your firebase 
+configuration. You will have to setup a database and google authentication in the firebase console. 
+
+Run the application on your localhost
+
+```bash
+  npm run
+```
+###
+
+#### Note : This README is subject to updates as the project progresses.
+
 
 ## PREVIEW
 <img width="1438" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/5bcd3932-9aa2-4d09-82d2-ba78c20ca282">
@@ -49,7 +81,10 @@ BMP180 is a high-precision digital pressure sensor commonly used in IoT applicat
 <img width="1440" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/ab340545-1b2a-4fa5-afb5-42ef5a070bfc">
 <img width="1440" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/b43dd5fb-66ee-4e19-8004-bcb42d0dc56f">
 <img width="1439" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/2a574b77-baec-45b7-a71c-72348a022683">
-<img width="1440" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/7066c5ab-8bd4-4003-8c69-5b429dc5ae38">
+<img width="1440" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/7066c5ab-8bd4-4003-8c69-5b429dc5ae38">   
+
+
+
 
 
 
