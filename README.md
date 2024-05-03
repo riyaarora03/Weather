@@ -64,8 +64,10 @@ configuration. You will have to setup a database and google authentication in th
 Run the application on your localhost
 
 ```bash
-  npm run
+  npm start
 ```
+
+
 ###
 
 #### Note : This README is subject to updates as the project progresses.
