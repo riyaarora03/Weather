@@ -19,13 +19,13 @@ Minimizing potential damage to infrastructure and reducing the risk to human liv
 ### 2. Addressing Limitations of Manual Weather Monitoring:   
 Current manual weather monitoring stations have limitations such as inability to provide real-time data and insights from historical data.   
 AWMS aims to fill this gap by offering a comprehensive platform that monitors weather conditions in real-time at Mana, enabling proactive measures to manage operations and mitigate risks.
-### Optimizing Operation of Critical Infrastructure:   
+### 3. Optimizing Operation of Critical Infrastructure:   
 Integrating AWMS with the management systems of the VishnuPrayag Barrage to enhance efficiency and effectiveness of operations.   
 Ensuring sustainable utilization of water resources and minimizing the impact of adverse weather events on critical infrastructure.   
-### Commitment to Leveraging Technology for Resilience and Development:   
+### 4. Commitment to Leveraging Technology for Resilience and Development:   
 Rooted in the commitment to leveraging technology to enhance disaster resilience, protect lives and property, and promote sustainable development in Mana village and its surroundings.
 
-## Software Requirement Specification
+## Software & Hardware Analysis
 <img width="527" alt="image" src="https://github.com/riyaarora03/Weather-Monitoring-System/assets/137734460/e854f875-b134-498e-b395-cebcd94e4a45">
 
 
